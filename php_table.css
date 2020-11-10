@@ -1,0 +1,42 @@
+.Itemdata:nth-child(odd){
+	background:#b8d1f3;
+	text-align:center;
+}
+
+.ItemData:nth-child(even){
+	background: #dae5f4;
+	text-align:center;
+}
+h1{
+	text-align:center;
+}
+.div{
+	background-image: url("test4.png");
+	height: 150px;
+	font-size: 60px;
+	text-align:center;
+	
+}
+
+.div .a{
+	margin-left:200px;
+	height: 20px;
+	font-size: 20px;
+	text-align:right;
+}
+
+img{
+	height:85px;
+}
+
+.table{	
+	display:none;
+}
+
+#btn{
+	background-color:gray;
+}
+ 
+ #img{
+	display:none; 
+ }

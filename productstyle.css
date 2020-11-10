@@ -1,0 +1,90 @@
+/* CORE */
+
+h1 {
+  margin: -10px 0 -14px -6px;
+  font-size: 30px;
+}
+
+hr {
+  margin-top: 8.5px;
+}
+
+/* PRODUCT PAGE SECONDARY BANNER */
+.selection-banner {
+  background-color: lightgrey;
+  background-size: cover;
+  margin-top: -16px;
+  padding: 0;
+}
+
+.selection-banner > h1 {
+  color: rgb(100, 128, 172);
+  padding: 0 0 0 1em;
+  text-decoration: none;
+}
+
+
+.selection-banner > .nav-list > ul{
+  list-style: none;
+  margin-left: -14px;
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+.selection-banner > .nav-list > ul > li {
+  display:inline-block; 
+  position:relative;
+  padding-top: 15px;
+  padding-right: 10px;
+  font-size: 15px;
+  color: rgb(61, 61, 61);
+  text-align: center;
+}
+
+.selection-banner > .nav-list > ul  li  a {
+	text-decoration: none;
+  color: rgb(61, 61, 61);
+}
+
+.selection-banner > .nav-list > ul  li  a:hover {
+	color: rgb(100, 128, 172);
+}
+
+.selection-banner > .nav-list > ul li:last-of-type {
+  color: rgb(100, 128, 172); 
+}
+
+/* MAIN */
+.main {
+  font-family: 'Square';
+  color: black;
+  font-size: 42px;
+  margin-top: -9px;
+  margin-bottom: -60px;
+  background-image: url("whitebg.jpg");
+  background-size: 125% 100%;
+  position: relative;
+ 
+}
+
+/* PRODUCT ICONS */
+.product-icons > ul li {
+  list-style-type: none;
+  display: inline-block;
+  padding-top: 115px;
+}
+
+.product-icons figure {
+  margin-top: 5px;
+  cursor: pointer;
+}
+
+.product-icons > ul li img {
+  max-height: 175px;
+  margin-top: -20px;
+}
+
+.product-icons figcaption {
+  font-size: 22px;
+  margin-top: -10px;
+}

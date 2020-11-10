@@ -1,0 +1,22 @@
+body{
+	background-image: url("test4.png");
+}
+
+.table{	
+	display: block;
+}
+
+#rows{
+	text-align: center;
+}
+
+.btn{
+	background-color:gray;
+}
+
+#img {
+  max-width: 350px;
+  margin: 5px 0 5px 6em;
+  float: left;
+  cursor: pointer;
+}

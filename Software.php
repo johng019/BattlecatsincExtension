@@ -1,7 +1,7 @@
 <link rel = "stylesheet" href="basestyle.css" type="text/css">
 <link rel="stylesheet" href="php_table.css" type="text/css">
 
-<div class ="div">
+<div class ="div" id="div">
     <img src="whiteLogoalt.png" alt="BattleCat Logo" onclick=window.location="index.html" </img>
 	Get a Great Deal on Microsoft Software 
 </div>
@@ -11,11 +11,11 @@ include_once 'conn.php';
 
 $sql = "SELECT * FROM Software"; 
 $result = sqlsrv_query($conn,$sql);
-
+$i=1;
 	while($row = sqlsrv_fetch_array($result)){
 ?>
-		<form  method="POST" action="Software.php?action=add&ID=<?php echo $row['ID']; ?>">
-	    <div class="ItemData"><br> 
+		
+	    <div class="ItemData" id="<?php echo $i ?>"><br> 
 		<h4> Item Number :<?php echo $row['ID']; ?></h4>
 		<h4> Title : <?php echo $row['Title'] ?></h4>
 		<h4> Software Type : <?php echo $row['Software_Type'] ?></h4>
@@ -25,7 +25,7 @@ $result = sqlsrv_query($conn,$sql);
 		<h4> Quantity : <?php echo $row['Quantity'] ?></h4>	
 		<br>
 		</div>
-		</form>
 		<?php 
+		$i++;
 	}
 ?>

@@ -4,7 +4,7 @@
 
 <div class ="div" >
 <a><img src="whiteLogoalt.png" alt="BattleCat Logo" onclick=window.location="index.html"></a>
-Get a Great Deal on Cases
+Get a Great Deal on Speakers
 </div>
 
 <?php

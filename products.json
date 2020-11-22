@@ -1,0 +1,148 @@
+{
+  "items": [
+    {
+      "sys": {
+        "id": "1"
+      },
+      "fields": {
+        "title": "Microsoft Windows 10 Home (64 bit)",
+        "price": 108.78,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-1.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "2"
+      },
+      "fields": {
+        "title": "Microsoft Windows 10 PRO (64 bit)",
+        "price": 139.88,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-2.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "3"
+      },
+      "fields": {
+        "title": "Microsoft Windows 10 Home (32 bit)",
+        "price": 173.40,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-1.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "4"
+      },
+      "fields": {
+        "title": "Microsoft Windows 10 PRO (32/64 bit)",
+        "price": 199.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-2.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "5"
+      },
+      "fields": {
+        "title": "Microsoft Windows 7 Professional (32/64 bit)",
+        "price": 354.16,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-3.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "6"
+      },
+      "fields": {
+        "title": "Microsoft Windows 10 Home (32/64 bit)",
+        "price": 119.04,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-1.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "7"
+      },
+      "fields": {
+        "title": "Microsoft Windows 10 PRO (32/64 bit)",
+        "price": 189.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-2.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "8"
+      },
+      "fields": {
+        "title": "Windows 7 Professional SP1 32-bit",
+        "price": 104.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-3.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "9"
+      },
+      "fields": {
+        "title": "Microsoft 7 Professional SP1 64-bit",
+        "price": 106.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-3.jpeg"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

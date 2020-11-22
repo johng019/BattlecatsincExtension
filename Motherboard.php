@@ -11,10 +11,11 @@ include_once 'conn.php';
 
 $sql = "SELECT * FROM Motherboard;";
 $result = sqlsrv_query($conn,$sql);
-	
+$i=1;
+
 	while($row = sqlsrv_fetch_array($result,2)){	
 ?>
-		<div class="ItemData"><br>
+		<div class="ItemData" id="<?php echo $i ?>" ><br>
 		<h4> Item Number : <?php echo $row['ID']; ?></h4>
 		<h4> Board Name : <?php echo $row['Board_Name']; ?></h4>
 		<h4> Socket : <?php echo $row['Socket']; ?></h4>
@@ -27,5 +28,6 @@ $result = sqlsrv_query($conn,$sql);
 		<br><br>
 		</div>
 <?php
-		}
+	$i++;
+	}
 ?>

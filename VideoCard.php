@@ -11,10 +11,11 @@ include_once 'conn.php';
 
 $sql = "SELECT * FROM Video_Card;";
 $result = sqlsrv_query($conn,$sql);
+$i=1;
 
 	while($row = sqlsrv_fetch_array($result,2)){	
 ?>
-        <div class="ItemData" id='.$i.' ><br>
+        <div class="ItemData" id="<?php echo $i ?>" ><br>
 	    <h4> Item Number : <?php echo $row['ID']; ?></h4>
 		<h4> Manufacturer : <?php echo $row['Manufacturer']; ?></h4>
 		<h4> Chipset : <?php echo $row['Chipset']; ?></h4>
@@ -27,6 +28,7 @@ $result = sqlsrv_query($conn,$sql);
 		<br><br>
 		</div>
 <?php
-		}
+	$i++;
+	}
 		
 ?>

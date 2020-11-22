@@ -11,10 +11,12 @@ include_once 'conn.php';
 
 $sql = "SELECT * FROM STORAGE_DEVICES;";
 $result = sqlsrv_query($conn,$sql);
+$i=1;
 
 	while($row = sqlsrv_fetch_array($result,2)){	
 ?>
-		<div class="ItemData"><br><h4>Item Number : <?php echo $row['ID']; ?></h4>
+		<div class="ItemData" id="<?php echo $i ?>" ><br>
+		<h4>Item Number : <?php echo $row['ID']; ?></h4>
 		<h4> Device Name : <?php echo $row['Storage_Device_Name']; ?></h4>
 		<h4> Capacity : <?php echo $row['Capacity']; ?></h4>
 		<h4> Type : <?php echo $row['Storage_Type']; ?></h4>
@@ -23,7 +25,9 @@ $result = sqlsrv_query($conn,$sql);
 		<h4> Interface : <?php echo $row['Interface']; ?></h4>
 		<h4> Price : <?php echo $row['Price'] = sprintf("$%.02f",$row['Price']); ?></h4>
 		<h4> Quantity : <?php echo $row['Quantity']; ?></h4>
-		<br><br></div>
+		<br><br>
+		</div>
 <?php
-		}
+	$i++;
+	}
 ?>

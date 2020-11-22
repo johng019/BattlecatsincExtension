@@ -13,10 +13,11 @@ include_once 'conn.php';
 
 $sql = "SELECT * FROM Speaker;";
 $result = sqlsrv_query($conn,$sql);
-	
+$i=1;
+
 	while($row = sqlsrv_fetch_array($result,2)){	
 ?>
-	    <div class="ItemData"><br>
+	    <div class="ItemData" id="<?php echo $i ?>" ><br>
 	    <h4 font-weight:bold>Item Number : <?php echo $row['ID']; ?></h4>
 		<h4 font-weight:bold>Manufacturer : <?php echo $row['Manufacturer']; ?></h4>
 		<h4 font-weight:bold>Configuration : <?php echo $row['Configuration_At']; ?></h4>
@@ -27,5 +28,6 @@ $result = sqlsrv_query($conn,$sql);
 		<br><br>
 		</div>
 <?php
-		}
+	$i++;
+	}
 ?>

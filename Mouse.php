@@ -11,11 +11,12 @@ include_once 'conn.php';
 
 $sql = "SELECT * FROM Mouse;";
 $result = sqlsrv_query($conn,$sql);
+$i = 1;
 
 	while($row = sqlsrv_fetch_array($result,2)){
 ?>		
-		<div class="ItemData"><br>
-		<h4> Item Number : <?php echo $row['ID']; ?></h4>
+		<div class="ItemData" id="<?php echo $i ?>" ><br>
+	    <h4> Item Number : <?php echo $row['ID'] ?></h4>
 		<h4> Manufacturer : <?php echo $row['Manufacturer']; ?></h4>
 		<h4> Tracking Method : <?php echo $row['Tracking_Method']; ?></h4>
 		<h4> Connection Type : <?php echo $row['Connection_Type']; ?></h4>
@@ -26,5 +27,6 @@ $result = sqlsrv_query($conn,$sql);
 		<br><br>
 		</div>
 <?php
-		}
+    $i++;
+	}
 ?>

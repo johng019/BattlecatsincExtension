@@ -2,7 +2,7 @@
   "items": [
     {
       "sys": {
-        "id": "1"
+        "id": "5001"
       },
       "fields": {
         "title": "MSI TWIN FROZER",
@@ -10,7 +10,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-1.jpeg"
+              "url": "./images/vc1.jpeg"
             }
           }
         }
@@ -18,7 +18,7 @@
     },
     {
       "sys": {
-        "id": "2"
+        "id": "5002"
       },
       "fields": {
         "title": "GIGABYTE WINDFORCE OC",
@@ -26,7 +26,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-2.jpeg"
+              "url": "./images/vc2.jpeg"
             }
           }
         }
@@ -34,7 +34,7 @@
     },
     {
       "sys": {
-        "id": "3"
+        "id": "5003"
       },
       "fields": {
         "title": "EVGA SC GAMING ACX 3.0 BLACK EDITION",
@@ -42,7 +42,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-1.jpeg"
+              "url": "./images/vc3.jpeg"
             }
           }
         }
@@ -50,7 +50,7 @@
     },
     {
       "sys": {
-        "id": "4"
+        "id": "5004"
       },
       "fields": {
         "title": "ASUS STRIX GAMING OC",
@@ -58,7 +58,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-2.jpeg"
+              "url": "./images/vc4.jpeg"
             }
           }
         }
@@ -66,7 +66,7 @@
     },
     {
       "sys": {
-        "id": "5"
+        "id": "5005"
       },
       "fields": {
         "title": "MSI VENTUS OC",
@@ -74,7 +74,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-3.jpeg"
+              "url": "./images/vc5.jpeg"
             }
           }
         }
@@ -82,7 +82,7 @@
     },
     {
       "sys": {
-        "id": "6"
+        "id": "5006"
       },
       "fields": {
         "title": "ASUS STRIX GAMMING OC",
@@ -90,7 +90,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-1.jpeg"
+              "url": "./images/vc6.jpeg"
             }
           }
         }
@@ -98,7 +98,7 @@
     },
     {
       "sys": {
-        "id": "7"
+        "id": "5007"
       },
       "fields": {
         "title": "GIGABYTE GAMING",
@@ -106,7 +106,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-2.jpeg"
+              "url": "./images/vc7.jpeg"
             }
           }
         }
@@ -114,7 +114,7 @@
     },
     {
       "sys": {
-        "id": "8"
+        "id": "5008"
       },
       "fields": {
         "title": "NVIDIA FOUNDERS EDITION",
@@ -122,7 +122,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-3.jpeg"
+              "url": "./images/vc8.jpeg"
             }
           }
         }
@@ -130,7 +130,7 @@
     },
     {
       "sys": {
-        "id": "9"
+        "id": "5009"
       },
       "fields": {
         "title": "NVIDIA FOUNDERS EDITION",
@@ -138,7 +138,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-3.jpeg"
+              "url": "./images/vc9.jpeg"
             }
           }
         }
@@ -146,7 +146,7 @@
     },
     {
       "sys": {
-        "id": "10"
+        "id": "5010"
       },
       "fields": {
         "title": "SAPPHIRE PULSE",
@@ -154,7 +154,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-3.jpeg"
+              "url": "./images/vc10.jpeg"
             }
           }
         }

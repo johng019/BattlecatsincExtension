@@ -2,7 +2,7 @@
   "items": [
     {
       "sys": {
-        "id": "1"
+        "id": "10001"
       },
       "fields": {
         "title": "LOGITECH G502 PROTEUS SPECTRUM",
@@ -10,7 +10,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-1.jpeg"
+              "url": "./images/Mouse1.jpeg"
             }
           }
         }
@@ -18,7 +18,7 @@
     },
     {
       "sys": {
-        "id": "2"
+        "id": "10002"
       },
       "fields": {
         "title": "LOGITECH G502 PROTEUS CORE",
@@ -26,7 +26,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-2.jpeg"
+              "url": "./images/mouse2.jpeg"
             }
           }
         }
@@ -34,7 +34,7 @@
     },
     {
       "sys": {
-        "id": "3"
+        "id": "10003"
       },
       "fields": {
         "title": "LOGITECH G502 HERO",
@@ -42,7 +42,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-1.jpeg"
+              "url": "./images/mouse3.jpeg"
             }
           }
         }
@@ -50,7 +50,7 @@
     },
     {
       "sys": {
-        "id": "4"
+        "id": "10004"
       },
       "fields": {
         "title": "MIONIX NAOS 7000",
@@ -58,7 +58,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-2.jpeg"
+              "url": "./images/mouse4.jpeg"
             }
           }
         }
@@ -66,7 +66,7 @@
     },
     {
       "sys": {
-        "id": "5"
+        "id": "10005"
       },
       "fields": {
         "title": "LOGITECH G PRO WIRELESS",
@@ -74,7 +74,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-3.jpeg"
+              "url": "./images/mouse5.jpeg"
             }
           }
         }
@@ -82,7 +82,7 @@
     },
     {
       "sys": {
-        "id": "6"
+        "id": "10006"
       },
       "fields": {
         "title": "LOGITECH G303 DAEDALUS APEX",
@@ -90,7 +90,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-1.jpeg"
+              "url": "./images/mouse6.jpeg"
             }
           }
         }
@@ -98,7 +98,7 @@
     },
     {
       "sys": {
-        "id": "7"
+        "id": "10007"
       },
       "fields": {
         "title": "LOGITECH MX MASTER 3",
@@ -106,7 +106,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-2.jpeg"
+              "url": "./images/mouse7.jpeg"
             }
           }
         }
@@ -114,7 +114,7 @@
     },
     {
       "sys": {
-        "id": "8"
+        "id": "10008"
       },
       "fields": {
         "title": "RAZOR BASILISK ULTIMATE",
@@ -122,7 +122,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-3.jpeg"
+              "url": "./images/mouse8.jpeg"
             }
           }
         }

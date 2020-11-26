@@ -2,7 +2,7 @@
   "items": [
     {
       "sys": {
-        "id": "1"
+        "id": "8001"
       },
       "fields": {
         "title": "CORSAIR VENGENCE K70",
@@ -10,7 +10,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-1.jpeg"
+              "url": "./images/k1.jpeg"
             }
           }
         }
@@ -18,7 +18,7 @@
     },
     {
       "sys": {
-        "id": "2"
+        "id": "8002"
       },
       "fields": {
         "title": "LOGITECH G PRO",
@@ -26,7 +26,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-2.jpeg"
+              "url": "./images/k2.jpeg"
             }
           }
         }
@@ -34,7 +34,7 @@
     },
     {
       "sys": {
-        "id": "3"
+        "id": "8003"
       },
       "fields": {
         "title": "CORSAIR K68",
@@ -42,7 +42,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-1.jpeg"
+              "url": "./images/k3.jpeg"
             }
           }
         }
@@ -50,7 +50,7 @@
     },
     {
       "sys": {
-        "id": "4"
+        "id": "8004"
       },
       "fields": {
         "title": "CORSAIR STRAFE RGB",
@@ -58,7 +58,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-2.jpeg"
+              "url": "./images/k4.jpeg"
             }
           }
         }
@@ -66,7 +66,7 @@
     },
     {
       "sys": {
-        "id": "5"
+        "id": "8005"
       },
       "fields": {
         "title": "CORSAIR K70 RGB MK.2",
@@ -74,7 +74,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-3.jpeg"
+              "url": "./images/k5.jpeg"
             }
           }
         }
@@ -82,7 +82,7 @@
     },
     {
       "sys": {
-        "id": "6"
+        "id": "8006"
       },
       "fields": {
         "title": "CORSAIR K70 RGB RAPIDFIRE",
@@ -90,7 +90,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-1.jpeg"
+              "url": "./images/k6.jpeg"
             }
           }
         }
@@ -98,7 +98,7 @@
     },
     {
       "sys": {
-        "id": "7"
+        "id": "8007"
       },
       "fields": {
         "title": "CORSAIR K95 RGB PLATINUM XT",
@@ -106,7 +106,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-2.jpeg"
+              "url": "./images/k7.jpeg"
             }
           }
         }
@@ -114,7 +114,7 @@
     },
     {
       "sys": {
-        "id": "8"
+        "id": "8008"
       },
       "fields": {
         "title": "STEELSERIES APEX 7 TKL",
@@ -122,7 +122,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-3.jpeg"
+              "url": "./images/k8.jpeg"
             }
           }
         }

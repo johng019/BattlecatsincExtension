@@ -2,7 +2,7 @@
   "items": [
     {
       "sys": {
-        "id": "1"
+        "id": "4001"
       },
       "fields": {
         "title": "ADATA XPG SX8200 PRO",
@@ -10,7 +10,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-1.jpeg"
+              "url": "./images/st1.jpeg"
             }
           }
         }
@@ -18,7 +18,7 @@
     },
     {
       "sys": {
-        "id": "2"
+        "id": "4002"
       },
       "fields": {
         "title": "SAMSUNG 850 EVO-SERIES",
@@ -26,7 +26,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-2.jpeg"
+              "url": "./images/st2.jpeg"
             }
           }
         }
@@ -34,7 +34,7 @@
     },
     {
       "sys": {
-        "id": "3"
+        "id": "4003"
       },
       "fields": {
         "title": "SAMSUNG 970 EVO",
@@ -42,7 +42,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-1.jpeg"
+              "url": "./images/st3.jpeg"
             }
           }
         }
@@ -50,7 +50,7 @@
     },
     {
       "sys": {
-        "id": "4"
+        "id": "4004"
       },
       "fields": {
         "title": "SAMSUNG 850 EVO-SERIES",
@@ -58,7 +58,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-2.jpeg"
+              "url": "./images/st4.jpeg"
             }
           }
         }
@@ -66,7 +66,7 @@
     },
     {
       "sys": {
-        "id": "5"
+        "id": "4005"
       },
       "fields": {
         "title": "SAMSUNG 970 EVO PLUS",
@@ -74,7 +74,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-3.jpeg"
+              "url": "./images/st5.jpeg"
             }
           }
         }
@@ -82,7 +82,7 @@
     },
     {
       "sys": {
-        "id": "6"
+        "id": "4006"
       },
       "fields": {
         "title": "SAMSUNG 970 EVO PLUS",
@@ -90,7 +90,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-1.jpeg"
+              "url": "./images/st6.jpeg"
             }
           }
         }
@@ -98,7 +98,7 @@
     },
     {
       "sys": {
-        "id": "7"
+        "id": "4007"
       },
       "fields": {
         "title": "INLAND PREMIUM",
@@ -106,7 +106,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-2.jpeg"
+              "url": "./images/st7.jpeg"
             }
           }
         }
@@ -114,7 +114,7 @@
     },
     {
       "sys": {
-        "id": "8"
+        "id": "4008"
       },
       "fields": {
         "title": "SAMSUNG 850 PRO SERIES",
@@ -122,7 +122,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-3.jpeg"
+              "url": "./images/st8.jpeg"
             }
           }
         }
@@ -130,7 +130,7 @@
     },
     {
       "sys": {
-        "id": "9"
+        "id": "4009"
       },
       "fields": {
         "title": "SAMSUNG 860 EVO",
@@ -138,7 +138,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-3.jpeg"
+              "url": "./images/st9.jpeg"
             }
           }
         }
@@ -146,7 +146,7 @@
     },
 	 {
       "sys": {
-        "id": "10"
+        "id": "4010"
       },
       "fields": {
         "title": "SAMSUNG 970 PRO",
@@ -154,7 +154,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-1.jpeg"
+              "url": "./images/st10.jpeg"
             }
           }
         }
@@ -162,7 +162,7 @@
     },
     {
       "sys": {
-        "id": "11"
+        "id": "4011"
       },
       "fields": {
         "title": "SILICON POWER P34A80",
@@ -170,7 +170,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-2.jpeg"
+              "url": "./images/st11.jpeg"
             }
           }
         }
@@ -178,7 +178,7 @@
     },
     {
       "sys": {
-        "id": "12"
+        "id": "4012"
       },
       "fields": {
         "title": "TEAM GROUP T-FORCE CARDEA ZERO Z340",
@@ -186,7 +186,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-3.jpeg"
+              "url": "./images/st12.jpeg"
             }
           }
         }
@@ -194,7 +194,7 @@
     },
     {
       "sys": {
-        "id": "13"
+        "id": "4013"
       },
       "fields": {
         "title": "SEAGATE BARRACUDA",
@@ -202,7 +202,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-1.jpeg"
+              "url": "./images/st13.jpeg"
             }
           }
         }
@@ -210,7 +210,7 @@
     },
     {
       "sys": {
-        "id": "14"
+        "id": "4014"
       },
       "fields": {
         "title": "WESTERN DIGITAL BLACK",
@@ -218,7 +218,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-2.jpeg"
+              "url": "./images/st14.jpeg"
             }
           }
         }
@@ -226,7 +226,7 @@
     },
     {
       "sys": {
-        "id": "15"
+        "id": "4015"
       },
       "fields": {
         "title": "INTEL OPTANE 905P",
@@ -234,7 +234,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-3.jpeg"
+              "url": "./images/st15.jpeg"
             }
           }
         }

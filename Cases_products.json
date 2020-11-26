@@ -2,7 +2,7 @@
   "items": [
     {
       "sys": {
-        "id": "1"
+        "id": "6001"
       },
       "fields": {
         "title": "FRACTIL DESIGN MESHIFY C (TTG)",
@@ -10,7 +10,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-1.jpeg"
+              "url": "./images/ca1.jpeg"
             }
           }
         }
@@ -18,7 +18,7 @@
     },
     {
       "sys": {
-        "id": "2"
+        "id": "6002"
       },
       "fields": {
         "title": "LIAN LI PC-011 DYNAMIC",
@@ -26,7 +26,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-2.jpeg"
+              "url": "./images/ca2.jpeg"
             }
           }
         }
@@ -34,7 +34,7 @@
     },
     {
       "sys": {
-        "id": "3"
+        "id": "6003"
       },
       "fields": {
         "title": "FRACTIL DESIGN MESHIFY C (SP)",
@@ -42,7 +42,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-1.jpeg"
+              "url": "./images/ca3.jpeg"
             }
           }
         }
@@ -50,7 +50,7 @@
     },
     {
       "sys": {
-        "id": "4"
+        "id": "6004"
       },
       "fields": {
         "title": "ASUS TUF GAMING GT 301",
@@ -58,7 +58,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-2.jpeg"
+              "url": "./images/ca4.jpeg"
             }
           }
         }
@@ -66,7 +66,7 @@
     },
     {
       "sys": {
-        "id": "5"
+        "id": "6005"
       },
       "fields": {
         "title": "CORSAIR 760T",
@@ -74,7 +74,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-3.jpeg"
+              "url": "./images/ca5.jpeg"
             }
           }
         }
@@ -82,7 +82,7 @@
     },
     {
       "sys": {
-        "id": "6"
+        "id": "6006"
       },
       "fields": {
         "title": "CORSAIR OBSIDIAN 1000D",
@@ -90,7 +90,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-1.jpeg"
+              "url": "./images/ca6.jpeg"
             }
           }
         }
@@ -98,7 +98,7 @@
     },
     {
       "sys": {
-        "id": "7"
+        "id": "6007"
       },
       "fields": {
         "title": "NANOXIA DEEP SILENCE 4",
@@ -106,7 +106,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-2.jpeg"
+              "url": "./images/ca7.jpeg"
             }
           }
         }
@@ -114,7 +114,7 @@
     },
     {
       "sys": {
-        "id": "8"
+        "id": "6008"
       },
       "fields": {
         "title": "NZXT H210i",
@@ -122,7 +122,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-3.jpeg"
+              "url": "./images/ca8.jpeg"
             }
           }
         }

@@ -180,14 +180,16 @@ class UI {
         });
     }
     clearCart() {
-        let cartItems = cart.map(item => item.id);
+		window.open("checkout.html");
+		
+		/*let cartItems = cart.map(item => item.id);
         cartItems.forEach(id => this.removeItem(id));
-        console.log(cartContent.children);
+        //console.log(cartContent.children);
 
         while (cartContent.children.length > 0) {
             cartContent.removeChild(cartContent.children[0]);
         }
-        this.hideCart();
+        this.hideCart();*/
     }
     removeItem(id) {
         cart = cart.filter(item => item.id !== id)

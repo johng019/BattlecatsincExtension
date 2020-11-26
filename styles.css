@@ -62,7 +62,7 @@ body {
 /* --------------- Hero ---------------- */
 .hero {
   min-height: calc(100vh - 60px);
-  background: url("./images/product-0.jpeg") center/cover no-repeat;
+  background: url("./images/computerBg.jpeg") center/cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -146,6 +146,7 @@ body {
 .product-img {
   display: block;
   width: 100%;
+  height:200px;
   min-height: 12rem;
   transition: var(--mainTransition);
 }

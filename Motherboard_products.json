@@ -2,7 +2,7 @@
   "items": [
     {
       "sys": {
-        "id": "1"
+        "id": "2001"
       },
       "fields": {
         "title": "ASROCK B450M PRO4",
@@ -10,7 +10,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-1.jpeg"
+              "url": "./images/mb1.jpeg"
             }
           }
         }
@@ -18,7 +18,7 @@
     },
     {
       "sys": {
-        "id": "2"
+        "id": "2002"
       },
       "fields": {
         "title": "ASUS TUF GAMMING B550M PLUS",
@@ -26,7 +26,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-2.jpeg"
+              "url": "./images/mb2.jpeg"
             }
           }
         }
@@ -34,7 +34,7 @@
     },
     {
       "sys": {
-        "id": "3"
+        "id": "2003"
       },
       "fields": {
         "title": "GIGABYTE X570 AORUS MASTER",
@@ -42,7 +42,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-1.jpeg"
+              "url": "./images/mb3.jpeg"
             }
           }
         }
@@ -50,7 +50,7 @@
     },
     {
       "sys": {
-        "id": "4"
+        "id": "2004"
       },
       "fields": {
         "title": "MSI B450 TOMAHAWLK MAX",
@@ -58,7 +58,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-2.jpeg"
+              "url": "./images/mb4.jpeg"
             }
           }
         }
@@ -66,7 +66,7 @@
     },
     {
       "sys": {
-        "id": "5"
+        "id": "2005"
       },
       "fields": {
         "title": "ASUS PRIME X470-PRO",
@@ -74,7 +74,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-3.jpeg"
+              "url": "./images/mb5.jpeg"
             }
           }
         }
@@ -82,7 +82,7 @@
     },
     {
       "sys": {
-        "id": "6"
+        "id": "2006"
       },
       "fields": {
         "title": "ASUS ROG MAXIMUS XI GENE",
@@ -90,7 +90,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-1.jpeg"
+              "url": "./images/mb6.jpeg"
             }
           }
         }
@@ -98,7 +98,7 @@
     },
     {
       "sys": {
-        "id": "7"
+        "id": "2007"
       },
       "fields": {
         "title": "MSI MPG Z490G GAMING",
@@ -106,7 +106,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-2.jpeg"
+              "url": "./images/mb7.jpeg"
             }
           }
         }
@@ -114,7 +114,7 @@
     },
     {
       "sys": {
-        "id": "8"
+        "id": "2008"
       },
       "fields": {
         "title": "ASROCK Z490 TAICHI",
@@ -122,7 +122,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-3.jpeg"
+              "url": "./images/mb8.jpeg"
             }
           }
         }
@@ -130,7 +130,7 @@
     },
     {
       "sys": {
-        "id": "9"
+        "id": "2009"
       },
       "fields": {
         "title": "GIGABYTE Z390 DESIGNARE",
@@ -138,7 +138,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-3.jpeg"
+              "url": "./images/mb9.jpeg"
             }
           }
         }
@@ -146,7 +146,7 @@
     },
 	{
       "sys": {
-        "id": "10"
+        "id": "2010"
       },
       "fields": {
         "title": "ASROCK Z390 PHANTOM GAMING",
@@ -154,7 +154,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-1.jpeg"
+              "url": "./images/mb10.jpeg"
             }
           }
         }
@@ -162,7 +162,7 @@
     },
     {
       "sys": {
-        "id": "11"
+        "id": "2011"
       },
       "fields": {
         "title": "GIGABYTE Z390 GAMMING X",
@@ -170,7 +170,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-2.jpeg"
+              "url": "./images/mb11.jpeg"
             }
           }
         }
@@ -178,7 +178,7 @@
     },
     {
       "sys": {
-        "id": "12"
+        "id": "2012"
       },
       "fields": {
         "title": "ASUS ROG MAXIMUS XII HERO",
@@ -186,7 +186,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-3.jpeg"
+              "url": "./images/mb12.jpeg"
             }
           }
         }
@@ -194,7 +194,7 @@
     },
     {
       "sys": {
-        "id": "13"
+        "id": "2013"
       },
       "fields": {
         "title": "MSI MEG Z490 GODLIKE",
@@ -202,7 +202,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-3.jpeg"
+              "url": "./images/mb13.jpeg"
             }
           }
         }

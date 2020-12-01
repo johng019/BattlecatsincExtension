@@ -54,6 +54,18 @@ hr {
   color: rgb(100, 128, 172); 
 }
 
+/* PROUDCT PAGE INFORMATION BANNER */
+.product-info-banner {
+  background-color: rgb(204, 252, 255);
+  text-align: center;
+  margin-top: -21px;
+  margin-bottom: -22px;
+}
+
+.product-info-banner > h2 a {
+  text-decoration: none;
+}
+
 /* MAIN */
 .main {
   font-family: 'Square';

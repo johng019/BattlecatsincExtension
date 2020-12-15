@@ -59,6 +59,7 @@ b, strong {
 
 .header > ul {
   list-style: none;
+  justify-content: space-between;
 }
 
 .header > ul li{
@@ -80,7 +81,7 @@ b, strong {
   font-size: 20px;
   color: rgb(223, 223, 223);
   padding-right: 20px;
-	text-decoration: none;
+  text-decoration: none;
   text-align: center;
 }
 
@@ -149,7 +150,7 @@ b, strong {
 }
 
 /* PROMO INFO */
-.banners > .promo_info {
+.banners > .promo-info {
   position: absolute;
   display: flex;
   margin-top: 250px;
@@ -161,20 +162,20 @@ b, strong {
   align-items: center;
 }
 
-.banners > .promo_info > h1, h2, a {
+.banners > .promo-info > h1, h2, a {
   z-index: 99;
 }
 
-.banners > .promo_info > h1 {
+.banners > .promo-info > h1 {
   color: white;
   margin-bottom: 0;
 }
 
-.banners > .promo_info > h2 {
+.banners > .promo-info > h2 {
   color: white;
 }
 
-.banners > .promo_info > a {
+.banners > .promo-info > a {
   color: black;
   font-family: 'Square';
   font-size: x-large;
@@ -186,7 +187,7 @@ b, strong {
   transition: 0.15s;
 }
 
-.banners > .promo_info > a:hover {
+.banners > .promo-info > a:hover {
   color: white;
   font-family: 'Square';
   font-size: x-large;
@@ -198,7 +199,7 @@ b, strong {
 }
 
 /*BOTTOM PROMO INFO*/
-.banners > .promo_info2 {
+.banners > .promo-info2 {
   position: absolute;
   display: flex;
   margin-bottom: 250px;
@@ -210,11 +211,11 @@ b, strong {
   z-index: 99;
 }
 
-.banners > .promo_info2 > h2 {
+.banners > .promo-info2 > h2 {
   color: black;
 }
 
-.banners > .promo_info2 > p a {
+.banners > .promo-info2 > p a {
   color: black;
   font-family: 'Square';
   font-size: x-large;
@@ -225,7 +226,7 @@ b, strong {
   transition: 0.15s;
 }
 
-.banners > .promo_info2 > p a:hover {
+.banners > .promo-info2 > p a:hover {
   color: white;
   font-family: 'Square';
   font-size: x-large;
@@ -236,7 +237,7 @@ b, strong {
   background-color: rgb(46, 46, 46);
 }
 
-.banners > .promo_info2 > .filler {
+.banners > .promo-info2 > .filler {
   position: absolute;
   background-color: white;
   padding-bottom: 390px;
@@ -302,7 +303,7 @@ b, strong {
 }
 
 /* SUPPORT BANNER */
-.bottom_banner {
+.bottom-banner {
   color: black;
   background-image: url("whitebg.jpg");
   background-size: cover;
@@ -310,38 +311,38 @@ b, strong {
   position: relative;
 }
 
-.bottom_banner > .content {
+.bottom-banner > .content {
   margin-left: 20px;
   padding: 20px 0 45px 0;
 }
 
-.bottom_banner > .content > h2 {
+.bottom-banner > .content > h2 {
   color: black;
   margin-bottom: 10px;
 }
 
-.bottom_banner > .content > a {
+.bottom-banner > .content > a {
   color:black;
   text-decoration: none;
   transition: 0.15s;
 }
 
-.bottom_banner > .content > a:hover {
+.bottom-banner > .content > a:hover {
   color:rgb(100, 128, 172);
 }
 
-.bottom_banner > .content > img {
+.bottom-banner > .content > img {
   float: left;
   margin: 6px 12px 6px 0;
   max-height: 25px;
 }
 
-.bottom_banner > .content > img:first-of-type {
+.bottom-banner > .content > img:first-of-type {
   margin-top: 23px;
 }
 
  /* SUPPORT INFO */
-.support_info {
+.support-info {
   position: absolute;
   display: flex;
   margin-top: 300px;
@@ -353,25 +354,25 @@ b, strong {
   align-items: center;
 }
 
-.support_info > h1, h2, a, p {
+.support-info > h1, h2, a, p {
   text-decoration: none;
   z-index: 99;
 }
 
-.support_info > h1 {
+.support-info > h1 {
   color: white;
   margin-bottom: 0;
 }
 
-.support_info > h2, .support_info > p {
+.support-info > h2, .support_info > p {
   color: white;
 }
 
-.support_info > p:last-of-type {
+.support-info > p:last-of-type {
   margin-top: 0;
 }
 
-.support_info > a {
+.support-info > a {
   color: black;
   font-family: 'Square';
   font-size: x-large;
@@ -383,7 +384,7 @@ b, strong {
   transition: 0.15s;
 }
 
-.support_info > a:hover {
+.support-info > a:hover {
   color: white;
   font-family: 'Square';
   font-size: x-large;
@@ -394,7 +395,7 @@ b, strong {
   text-decoration: none;
 }
 
-.support_banner {
+.support-banner {
   position: relative;
   width: 100%;
   max-height: 75vh;
@@ -403,7 +404,7 @@ b, strong {
 }
 
 /* ABOUT BANNER */
-.about_banner {
+.about-banner {
   background-image: url("images/about1.png");
   background-position-y: center;
   margin: 0;
@@ -419,16 +420,16 @@ b, strong {
   backdrop-filter: blur(2px);
 }
 
-.about_banner > h1 {
+.about-banner > h1 {
   font-size: 72px;
   margin-bottom: 0;
 }
 
-.about_banner > h1, .about_banner > h2 {
+.about-banner > h1, .about_banner > h2 {
   color: white;
 }
 
-.about_body {
+.about-body {
   padding: 2em 20em;
   background-image: url("whitebg.jpg");
   background-size: 125% 100%;
@@ -437,7 +438,7 @@ b, strong {
   line-height: 2em;
 }
 
-.about_body > h1, .about_body > h2 {
+.about-body > h1, .about_body > h2 {
   display: flex;
   width: 100%; 
   top: 0;
@@ -453,7 +454,7 @@ b, strong {
   margin: 15px;
 }
 
-.about_text::after {
+.about-text::after {
   content: "";
   display: table;
   clear: both;

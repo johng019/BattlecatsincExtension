@@ -13,10 +13,19 @@
   padding: 0;
   box-sizing: border-box;
 }
+html {
+  /* background-image: url("test4.png"); */
+  background-origin: content-box;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
 body {
+  background-image: url("whitebg.jpg");
   color: var(--mainBlack);
-  background: var(--mainWhite);
-  font-family: "Lato", sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  /* background: var(--mainWhite);
+  font-family: "Lato", sans-serif; */
 }
 /* --------------- Navbar ---------------- */
 .navbar {
@@ -26,12 +35,12 @@ body {
   width: 100%;
   display: flex;
   align-items: center;
-  background: rgb(231, 226, 221);
+  background: rgb(46,46,46);
   z-index: 1;
 }
 .navbar-center {
   width: 100%;
-  max-width: 1170px;
+  max-width: 1150px;
   margin: 0 auto;
   display: flex;
   align-items: center;
@@ -41,22 +50,44 @@ body {
 .navbar-img{
   height:20%;
   width:25%;
+  cursor:pointer;
 }
 .nav-icon {
   font-size: 1.5rem;
+  color:white;
 }
 .cart-btn {
   position: relative;
   cursor: pointer;
+  color:white;
 }
 .cart-items {
   position: absolute;
   top: -8px;
   right: -8px;
-  background: var(--primaryColor);
+  background:grey;
+  /* background: var(--primaryColor); */
   padding: 0 5px;
   border-radius: 30%;
   color: var(--mainWhite);
+}
+
+.cart-items {
+  position: absolute;
+  top: -8px;
+  right: -8px;
+  background:rgb(100, 128, 172);
+  /* background: var(--primaryColor); */
+  padding: 0 5px;
+  border-radius: 30%;
+  color: var(--mainWhite);
+}
+
+.php-info{
+	color:white;
+}
+.php-info:hover{
+	color: rgb(100, 128, 172);
 }
 /* --------------- End of Navbar ---------------- */
 /* --------------- Hero ---------------- */
@@ -84,21 +115,23 @@ body {
   text-transform: uppercase;
   letter-spacing: var(--mainSpacing);
   font-size: 1rem;
-  background: var(--primaryColor);
+  background: rgb(100, 128, 172);
+  /* background: var(--primaryColor); */
   color: var(--mainBlack);
-  border: 1px solid var(--primaryColor);
+  border: black;
   transition: var(--mainTransition);
   cursor: pointer;
 }
 .banner-btn:hover {
   background: transparent;
-  color: var(--primaryColor);
+  color: rgb(100, 128, 172);
+  border: black;
 }
 /* --------------- End of Hero ---------------- */
 /* --------------- Products ---------------- */
-
 .products {
   padding: 4rem 0;
+  justify-content: center;
 }
 .section-title h2 {
   text-align: center;
@@ -108,6 +141,7 @@ body {
   letter-spacing: var(--mainSpacing);
 }
 .products-center {
+  justify-content: center;
   width: 90vw;
   margin: 0 auto;
   max-width: 1170px;
@@ -124,7 +158,8 @@ body {
   position: absolute;
   top: 70%;
   right: 0;
-  background: var(--primaryColor);
+  background:rgb(100, 128, 172);
+  /* background: var(--primaryColor); */
   border: none;
   text-transform: uppercase;
   padding: 0.5rem 0.75rem;
@@ -162,10 +197,20 @@ body {
   text-align: center;
 }
 
-.product h4 {
+.product h4{
   margin-top: 0.7rem;
   letter-spacing: var(--mainSpacing);
-  color: var(--primaryColor);
+  color:black;
+  /* color: var(--primaryColor); */
+  text-align: center;
+}
+
+.product .details h4:hover{
+	cursor:pointer;
+  margin-top: 0.7rem;
+  letter-spacing: var(--mainSpacing);
+  color: rgb(100, 128, 172);
+  /* color: var(--primaryColor); */ 
   text-align: center;
 }
 /* ---------------End of Products ---------------- */

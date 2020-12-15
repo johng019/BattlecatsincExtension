@@ -80,6 +80,18 @@ hr {
 }
 
 /* PRODUCT ICONS */
+.product-icons {
+  margin-top: -125px;
+  margin-left: -250px;
+  margin-right: -250px;
+}
+
+.product-icons > ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
 .product-icons > ul li {
   list-style-type: none;
   display: inline-block;
@@ -97,6 +109,7 @@ hr {
 }
 
 .product-icons figcaption {
+  text-align:center;
   font-size: 22px;
   margin-top: -10px;
 }

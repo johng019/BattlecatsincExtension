@@ -60,7 +60,7 @@ class UI {
                 <h3>${product.title}</h3>
                 <h4>$${product.price}</h4>
 				<!--<a href="Software.php#`+i+`" target="_blank"><h4>Details</h4></a>-->
-				<a target="popup" onclick="window.open('Keyboard.php#`+i+`','Details','height=450,width=600'); return false;"><h4>Details</h4></a>
+				<a class="details" target="popup" onclick="window.open('Keyboard.php#`+i+`','Details','height=450,width=600'); return false;"><h4>Details</h4></a>
             </article>
             <!-- end single product -->          
             `;		

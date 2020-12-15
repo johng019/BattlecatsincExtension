@@ -45,6 +45,7 @@ class UI {
 			i++;
             result += ` 
             <!-- single product -->
+			<link rel="stylesheet" href="styles.css"/>
             <article class="product" >
                 <div class="img-container">
                     <img 
@@ -59,8 +60,8 @@ class UI {
                 </div>
                 <h3>${product.title}</h3>
                 <h4>$${product.price}</h4>
-				<!--<a href="Software.php#`+i+`" target="_blank"><h4>Details</h4></a>-->
-				<a target="popup" onclick="window.open('Cases.php#`+i+`','Details','height=370,width=600'); return false;"><h4>Details</h4></a>
+				<!--<a id="details" href="Software.php#`+i+`" target="_blank"><h4>Details</h4></a>-->
+				<a class="details" target="popup" onclick="window.open('Cases.php#`+i+`','Details','height=370,width=600'); return false;"><h4>Details</h4></a>
             </article>
             <!-- end single product -->          
             `;		
